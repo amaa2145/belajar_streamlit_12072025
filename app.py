@@ -9,4 +9,4 @@ st.title("_Streamlit_ is :blue[cool] :sunglasses:")
 
 st.subheader("_Streamlit_ is :blue[cool] :sunglasses:")
 
-st.markdown("*Streamlit* is **really** ***cool***."🥹)
+st.markdown("*Streamlit* is **really** ***cool***.")
