@@ -28,3 +28,6 @@ st.line_chart(chart_data)
 
 if st.button("Aloha", type="tertiary"):
     st.write("Ciao")
+
+if st.button("Say hello"):
+    st.write("Why hello there")
